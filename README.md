@@ -1,2 +1,2 @@
 # -Hello-World-
- Welcome to Sue's Analytics world. I am currently testing out GitHub.
+ Welcome to my world. I will be uploading my analytics projects down the line. I am currently testing out GitHub.
