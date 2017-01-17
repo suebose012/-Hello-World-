@@ -1,2 +1,7 @@
-# -Hello-World-
- Welcome to my world. I will be uploading my analytics projects down the line. I am currently testing out GitHub.
+# -Hello-World- Branch/merge practice
+ Welcome to my world. 
+ I am currently testing out GitHub.
+ I will be uploading my analytics projects down the line.
+ Plan to add some modeling/analytics/strategy/decision support projects.
+ Also sample codes in R, Python, Tableau, Bokeh, maybe, even SAS, though I'm weaning from the latter. 
+Still learning about how to upload and share IJupyter notebooks. That's in the plan.
